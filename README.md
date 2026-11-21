@@ -1,55 +1,31 @@
-<h2 align="left">Olá! Eu sou Rian Xavier</h2>
+## Olá, eu sou o Rian 👋
 
-###
+Software Engineer full stack. Construo aplicações web de ponta a ponta, da API à interface, com testes, feature flags e documentação.
 
-<p align="left">Software Engineer full stack, construindo aplicações web de ponta a ponta: da API à interface, com testes, feature flags e documentação.</p>
+<a href="https://www.linkedin.com/in/rian-xavier-292b07205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rianalvesxvr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/USUARIO_DA_EMPRESA"><img src="https://img.shields.io/badge/GitHub_da_empresa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub da empresa" /></a>
 
-###
+> [!NOTE]
+> Meu trabalho do dia a dia fica em repositórios privados da wehandle, na conta [`@USUARIO_DA_EMPRESA`](https://github.com/USUARIO_DA_EMPRESA). É lá que estão os commits diários com Java, Spring Boot, Kafka e React/Next.js.
 
-<h2 align="left">Social Midia</h2>
+### O que eu faço
 
-###
+- ☕ APIs e regras de negócio com **Java e Spring Boot**
+- 🔄 Processos assíncronos com **Kafka**, tratamento de falhas e idempotência
+- 🔐 Segurança de APIs e controle de acesso
+- 🧱 Migração de sistemas legados para uma plataforma moderna
+- 🎨 Interfaces com **React e Next.js** e Design System em monorepo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rian-xavier-292b07205/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="rianalvesxvr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### Stack
 
-###
+| | |
+| :--- | :--- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" height="34" alt="Java, Spring, Node.js, NestJS" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" height="34" alt="TypeScript, React, Next.js, Tailwind" /> |
+| **Dados e mensageria** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka" height="34" alt="PostgreSQL, MongoDB, Kafka" /> |
+| **Infra e ferramentas** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" height="34" alt="AWS, Docker, GitHub Actions, Git" /> |
 
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
 
 ###
 
