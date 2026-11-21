@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor em progresso!</p>
+<p align="left">Software Engineer full stack, construindo aplicações web de ponta a ponta: da API à interface, com testes, feature flags e documentação.</p>
 
 ###
 
