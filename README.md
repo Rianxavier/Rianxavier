@@ -7,7 +7,7 @@ Software Engineer full stack. Construo aplicações web de ponta a ponta, da API
 <a href="https://github.com/rianxavier-wehandle"><img src="https://img.shields.io/badge/GitHub_da_empresa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub da empresa" /></a>
 
 > [!NOTE]
-> Meu trabalho do dia a dia fica em repositórios privados da wehandle, na conta [`@USUARIO_DA_EMPRESA`](https://github.com/rianxavier-wehandle). É lá que estão os commits diários com Java, Spring Boot, Kafka e React/Next.js.
+> Meu trabalho do dia a dia fica em repositórios privados da wehandle, na conta [`@rianxavier-wehandle`](https://github.com/rianxavier-wehandle). É lá que estão os commits diários com Java, Spring Boot, Kafka e React/Next.js.
 
 ### O que eu faço
 
